@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="5" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38" started-at="2022-06-26T23:51:02 EDT" finished-at="2022-06-26T23:51:02 EDT">
+    <groups>
+      <group name="Sanity">
+        <method signature="BasicTestNGAuto.Addcart()[pri:0, instance:testcase.com.BasicTestNGAuto@7a4ccb53]" name="Addcart" class="testcase.com.BasicTestNGAuto"/>
+        <method signature="BasicTestNGAuto.Make_Payment()[pri:0, instance:testcase.com.BasicTestNGAuto@7a4ccb53]" name="Make_Payment" class="testcase.com.BasicTestNGAuto"/>
+      </group> <!-- Sanity -->
+    </groups>
+    <test name="Test" duration-ms="38" started-at="2022-06-26T23:51:02 EDT" finished-at="2022-06-26T23:51:02 EDT">
+      <class name="testcase.com.BasicTestNGAuto">
+        <test-method status="PASS" signature="Addcart()[pri:0, instance:testcase.com.BasicTestNGAuto@7a4ccb53]" name="Addcart" duration-ms="6" started-at="2022-06-26T23:51:02 EDT" finished-at="2022-06-26T23:51:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addcart -->
+        <test-method status="PASS" signature="Make_Payment()[pri:0, instance:testcase.com.BasicTestNGAuto@7a4ccb53]" name="Make_Payment" duration-ms="1" started-at="2022-06-26T23:51:02 EDT" finished-at="2022-06-26T23:51:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Make_Payment -->
+      </class> <!-- testcase.com.BasicTestNGAuto -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
